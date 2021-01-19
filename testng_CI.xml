@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="false">
+	<suite-files>
+        <suite-file path="./XML_Files/DeviceOne.xml"></suite-file>
+        <suite-file path="./XML_Files/DeviceTwo.xml"></suite-file>
+        <suite-file path="./XML_Files/DeviceThree.xml"></suite-file>
+        <suite-file path="./XML_Files/DeviceFour.xml"></suite-file>
+        <suite-file path="./XML_Files/DeviceFive.xml"></suite-file>
+        <suite-file path="./XML_Files/DeviceSix.xml"></suite-file>
+        <suite-file path="./XML_Files/DeviceSeven.xml"></suite-file>
+        <!-- <suite-file path="./XML_Files/DeviceEight.xml"></suite-file> -->
+        <suite-file path="./XML_Files/DeviceNine.xml"></suite-file>
+        <suite-file path="./XML_Files/DeviceTen.xml"></suite-file>
+        <suite-file path="./XML_Files/DeviceEleven.xml"></suite-file>
+        <suite-file path="./XML_Files/DeviceTwelve.xml"></suite-file>
+        <suite-file path="./XML_Files/DeviceThirteen.xml"></suite-file>
+        <suite-file path="./XML_Files/DeviceFourteen.xml"></suite-file>
+        <suite-file path="./XML_Files/DeviceFifteen.xml"></suite-file>
+        <suite-file path="./XML_Files/DeviceSixteen.xml"></suite-file>
+        <suite-file path="./XML_Files/DeviceSeventeen.xml"></suite-file>
+        <suite-file path="./XML_Files/DeviceEighteen.xml"></suite-file>
+    </suite-files>
+	
+</suite> <!-- Suite -->
